@@ -1,0 +1,7 @@
+/shared
+/static
+*.o
+/inlineTest
+/sharedTest
+/staticTest
+/stringTest
